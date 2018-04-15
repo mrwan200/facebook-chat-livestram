@@ -23,7 +23,7 @@
  
  3. Use in OBS
   - 3.1 Open OBS and then add Browser
-  - 3.2 write this : http://127.0.0.1/fb and save 
+  - 3.2 write this : http://127.0.0.1/fb/fb.html and save 
   
 # Helpful 
 Code By : Shakeluna

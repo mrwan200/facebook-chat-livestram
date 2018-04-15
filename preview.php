@@ -38,7 +38,7 @@
 								<div class="panel-body">
 									<iframe height="300px" width="100%" src="fb.html" name="iframe_a"></iframe>
 									<br><br>
-										<a href="index.php"><button type="submit " class="btn btn-danger btn-block">กลับ</button></a>
+										<a href="index.php"><button type="submit " class="btn btn-danger btn-block">Back</button></a>
 							</div>
 						</div>
 				</div>

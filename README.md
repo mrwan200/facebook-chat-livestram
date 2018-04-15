@@ -1,5 +1,4 @@
-# facebook-chat-livestram
-Minecraft Server Status V. 1
+# Facebook Live Stream Chat 
 
 # How to Install facebook-chat-livestram
 1. extrat Folder server and copy to my website hosting
@@ -21,7 +20,11 @@ Minecraft Server Status V. 1
  - 2.2 and then click this : https://imgur.com/a/7jvho
  - 2.3 get number post this : https://imgur.com/a/di7MO
  - 2.4 Copy link and paster Post
-
+ 
+ 3. Use in OBS
+  - 3.1 Open OBS and then add Browser
+  - 3.2 write this : http://127.0.0.1/fb and save 
+  
 # Helpful 
 Code By : Shakeluna
 PHP + Website By : Mr. Wan

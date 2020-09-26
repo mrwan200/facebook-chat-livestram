@@ -1,5 +1,8 @@
 # Facebook Live Stream Chat 
 
+# Update
+Facebook has rate limit so You can't to use facebook chat livestream :(
+
 # How to Install facebook-chat-livestram
 1. extrat Folder server and copy to my website hosting
 2. go to phpmyadmin and create database
